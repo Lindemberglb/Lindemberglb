@@ -54,9 +54,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
-    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lindemberglb/Lindemberglb/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lindemberglb/Lindemberglb/output/github-snake.svg" />
+    <img alt="Contribuições" src="https://raw.githubusercontent.com/Lindemberglb/Lindemberglb/output/github-snake.svg" width="100%" />
   </picture>
 </div>
 
