@@ -44,14 +44,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,postgres,git,github,vscode,linux&theme=dark&perline=10" alt="Tecnologias" />
 </div>
 
-<br/>
-
-
-
-<br/>
-
-## 🐍 Comendo as contribuições
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lindemberglb/Lindemberglb/output/github-snake-dark.svg" />
