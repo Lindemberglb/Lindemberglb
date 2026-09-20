@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-lindemberg-de-lima-beltr%C3%A3o-8756b937b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="g35844579@gmail.com">
+<a href="https://www.g35844579@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 </div>
