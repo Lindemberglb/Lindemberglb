@@ -1,13 +1,3 @@
-<!--
-  ================================================================
-  COMO PERSONALIZAR (apague este bloco depois)
-  1. Use Ctrl + H no VS Code e troque  SEU_USUARIO  pelo seu usuário do GitHub
-  2. Troque  SEU NOME  e  SEU%20NOME  pelo seu nome
-  3. Ajuste os links de LinkedIn / e-mail / portfólio
-  4. Edite a seção "Sobre mim" e a tabela de projetos
-  ================================================================
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:1f6feb,100:8957e5&text=Guilherme%Lindemberg&fontColor=ffffff&fontSize=70&animation=twinkling&fontAlignY=40&desc=Transformando%20ideias%20em%20soluções&descAlignY=62&descSize=20" width="100%" alt="Cabeçalho animado" />
@@ -30,26 +20,16 @@
 </div>
 <br/>
 
-## 👨‍💻 About me
+## About me
 
 - 🎓 Computer science student
-- 💬 Pergunte-me sobre: **Java, Spring Boot, HTML/CSS/JS**
-- ⚡ Curiosidade: gosto de detalhes visuais e de código organizado
-
+- 💬 Ask me about: **Java, C, Python, React, N8N, HTML/CSS/JS**
 <br/>
 
-## 🧰 Tecnologias
+## Tech
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,postgres,git,github,vscode,linux&theme=dark&perline=10" alt="Tecnologias" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lindemberglb/Lindemberglb/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lindemberglb/Lindemberglb/output/github-snake.svg" />
-    <img alt="Contribuições" src="https://raw.githubusercontent.com/Lindemberglb/Lindemberglb/output/github-snake.svg" width="100%" />
-  </picture>
 </div>
 
 <div align="center">
