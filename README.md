@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:1f6feb,100:8957e5&text=Guilherme%Lindemberg&fontColor=ffffff&fontSize=70&animation=twinkling&fontAlignY=40&desc=Transformando%20ideias%20em%20solução&descAlignY=62&descSize=20" width="100%" alt="Cabeçalho animado" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:1f6feb,100:8957e5&text=Guilherme%Lindemberg&fontColor=ffffff&fontSize=70&animation=twinkling&fontAlignY=40&&descAlignY=62&descSize=20" width="100%" alt="Cabeçalho animado" />
 
 <a href="https://github.com/Lindemberglb">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Ol%C3%A1%2C+eu+sou++Guilherme+%F0%9F%91%8B;Full-Stack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;Java+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL;Aprendendo+algo+novo+todos+os+dias" alt="Texto digitado animado" />
