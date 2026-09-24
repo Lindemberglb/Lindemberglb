@@ -23,7 +23,7 @@
 ## About me
 
 - 🎓 Computer science student
-- 💬 Ask me about: **Java, C, Python, React, Node.js, Express, N8N, HTML/CSS/JS**
+- 💬 Ask me about: ** C, Python, React, Node.js, Express, N8N, HTML/CSS/JS**
 <br/>
 
 ## Tech
